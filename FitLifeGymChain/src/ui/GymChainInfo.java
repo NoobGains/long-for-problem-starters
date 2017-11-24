@@ -63,7 +63,7 @@ public class GymChainInfo {
         WeightMachine wm = new WeightMachine("quadriceps", 75);
 
         //TODO 2: pass in parameters to these methods:
-//        g1.setHasPool(...);
+       g1.setHasPool(true);
 //        wm.setWeight(...);
 //        g1.addWeight(...);
 
